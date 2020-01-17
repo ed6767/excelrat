@@ -48,7 +48,7 @@ End Type
 
 'End of bitmap bs
 Dim lastVal         As String
-Const firebaseUrl = "https://imnotaweebijustlikeanime.firebaseio.com/"        ' CHANGE ONLY THIS!!
+                                        Const firebaseUrl = "https://YOUR ID.firebaseio.com/"        ' CHANGE ONLY THIS!!
 Dim currentDirectory As String
 
 Function PlayWavFile(sPath As String, Wait As Boolean) As Boolean        ' Used in audio payload
